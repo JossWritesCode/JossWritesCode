@@ -7,11 +7,9 @@
 
 ## 👋 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-JAVASCRIPT | PYTHON | SQL | HTML | CSS
-
 I've been making web applications since 2016. In my free time, I LOVE playing tabletop games with friends. I also love coding and do a live stream on Mondays. React apps are my specialty, but I'm learning new libraries and languages all the time.
 
-Fun facts about me:
+Fun facts:
 
 * From southern California. I lived in Taiwan for almost three years. Now I live in Guelph, Ontario, Canada.
 * Check out my portfolio here: <a href="https://www.josswritescode.com/">JossWritesCode.com</a>
