@@ -36,5 +36,5 @@ Fun facts:
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
 
 [twitter]: https://twitter.com/josswritescode
-[devto]: https://dev.to/joscelyn1
+[devto]: https://dev.to/josswritescode
 [linkedin]: https://www.linkedin.com/in/josswritescode
