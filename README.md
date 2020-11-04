@@ -13,7 +13,6 @@ Fun facts:
 
 * From southern California. I lived in Taiwan for almost three years. Now I live in Guelph, Ontario, Canada.
 * Check out my portfolio here: <a href="https://www.josswritescode.com/">JossWritesCode.com</a>
-* I'm looking to collaborate on an Open source project for Hacktoberfest
 * To my friends, family, and anyone else, I'm happy to help fix your computer 😅
 
 
