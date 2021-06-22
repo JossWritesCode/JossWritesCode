@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
-I've been making web applications since 2016. In my free time, I LOVE playing tabletop games with friends. I also love coding and do a live stream on Mondays. React apps are my specialty, but I'm learning new libraries and languages all the time.
+I'm a software engineer in Guelph, Ontario. I've been making web applications since 2016. In my free time, I LOVE playing tabletop games with friends. React apps are my specialty, but I'm learning new libraries and languages all the time.
 
 Fun facts:
 
