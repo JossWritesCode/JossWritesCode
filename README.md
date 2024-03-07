@@ -11,7 +11,6 @@ I'm a software engineer in Toronto. In my free time, I LOVE playing tabletop gam
 
 Fun facts:
 
-* From southern California. I lived in Taiwan for almost three years. Now I live in Toronto.
 * Check out my portfolio here: <a href="https://www.josswritescode.com/">JossWritesCode.com</a>
 * To my friends, family, and anyone else, I'm happy to help fix your computer 😅
 
