@@ -38,7 +38,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=gruvbox&hide_title=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JossWritesCode&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-zeta-dun-63.vercel.app?user=&theme=dracula)](https://git.io/streak-stats)
 
 </div>
 
