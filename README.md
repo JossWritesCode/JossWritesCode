@@ -28,7 +28,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 - 🎲 I love Dungeons & Dragons and craft my own stories as a Dungeon Master  
 - 🎮 I'm a gamer at heart—I need a few hours a week to unwind playing Overwatch (**💪 Zarya main**)
-- 🌍 I love learning languages. I lived in Taiwan for a couple of years to study Chinese, and now I’m focusing on French.
+- 🌍 I love learning both programming languages and foreign languages. I lived in Taiwan for a couple of years to study Chinese, and now I’m focusing on French.
 
 ---
 
@@ -36,15 +36,16 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=gruvbox&hide_title=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats-zeta-dun-63.vercel.app?user=&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-zeta-dun-63.vercel.app?user=JossWritesCode&theme=dracula)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=dracula&hide_title=true&langs_count=6)](github-readme-stats-h9kx.vercel.app)
 
 </div>
 
 ### 🚀 Projects I'm Building
 
-[![RiffTube](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube)](https://github.com/JossWritesCode/RiffTube)
+[![RiffTube](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube&theme=dracula)](https://github.com/JossWritesCode/RiffTube)
 
 
 ---
