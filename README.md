@@ -1,38 +1,58 @@
-# Joscelyn Stancek
+
+<p align="center"><em>“A good programmer is someone who always looks both ways before crossing a one-way street.”<br>— Doug Linder</em></p>
 
 
-![alt text](https://i.imgur.com/RaYuDEM.jpg)
+# Joss
+
 <p align="center">
+  <img src="https://i.imgur.com/RaYuDEM.jpg" alt="Joss avatar" />
+</p>
+
+<h3>Hey there, I'm Joss 👋</h3>
+
+---
+
+I'm a software engineer based in Toronto 🇨🇦. When I'm not coding, you'll probably find me rolling dice at a tabletop game night or playing the piano.
+
+Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)  
+
+### 🔧 Tech Specialties
+
+- 🧠 Front-end engineering with **React**, **TypeScript**, and **Tailwind**
+- 💡 Product-focused development, clean architecture, and scalable code
+- 🚀 Constantly learning—lately into **Rails**, **GraphQL**, and **Node.js**
+
+---
+
+### ✨ Fun Facts
+
+- 🎲 I love Dungeons & Dragons and craft my own stories as a Dungeon Master  
+- 🎮 I'm a gamer at heart—I need a few hours a week to unwind playing Overwatch (**💪 Zarya main**)
+- 🌍 I love learning languages. I lived in Taiwan for a couple of years to study Chinese, and now I’m focusing on French.
+
+---
+
+### 📊 GitHub Stats
+
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=gruvbox&hide_title=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JossWritesCode&theme=gruvbox)](https://git.io/streak-stats)
+
+</div>
+
+### 🚀 Projects I'm Building
+
+[![RiffTube](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube)](https://github.com/JossWritesCode/RiffTube)
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+---
 
-I'm a software engineer in Toronto. In my free time, I LOVE playing tabletop games with friends. React apps are my specialty, but I'm learning new libraries and languages all the time.
+### ☕ Let’s Connect
 
-Fun facts:
-
-* Check out my portfolio here: <a href="https://www.josswritescode.com/">JossWritesCode.com</a>
-* To my friends, family, and anyone else, I'm happy to help fix your computer 😅
-
-
-[![JossWritesCode's github stats](https://github-readme-stats.vercel.app/api?username=JossWritesCode)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josswritescode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josswritescode)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/josswritescode)
 
 
-
-## 👀 Active Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube)](https://github.com/JossWritesCode/RiffTube)
-<br />
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Robot-Versus-Zombies&repo=front-end)](https://github.com/Robot-Versus-Zombies/front-end)
-
-
-## ☕ Get In Touch
-
-
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
-
-[twitter]: https://twitter.com/josswritescode
-[devto]: https://dev.to/josswritescode
-[linkedin]: https://www.linkedin.com/in/josswritescode
