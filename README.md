@@ -8,7 +8,7 @@
 
 
 
-<h3>Hey there, I'm <img alt="Joss avatar" src="https://github.com/user-attachments/assets/34d11237-3d6c-4259-bd9e-cd5ad0e24f1e/eb078237-d6c7-4d7a-b380-f7ff7e1b85d1](https://github.com/user-attachments/assets/49982a47-e6c7-4890-a3f6-7c4b7d11c317"  style="vertical-align: middle; width: 200px; padding-top: 20px;" /> 👋</h3>
+<h3>Hey there, I'm <img alt="Joss avatar" src="https://github.com/user-attachments/assets/34d11237-3d6c-4259-bd9e-cd5ad0e24f1e/eb078237-d6c7-4d7a-b380-f7ff7e1b85d1](https://github.com/user-attachments/assets/49982a47-e6c7-4890-a3f6-7c4b7d11c317"  style="vertical-align: sub; width: 200px;" /> 👋</h3>
 
 ---
 
