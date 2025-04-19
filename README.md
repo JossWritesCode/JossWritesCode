@@ -4,9 +4,8 @@
 
 # Joss
 
-![SOFTWARE Dev](https://github.com/user-attachments/assets/8a22a8e0-10ac-45d4-86a7-d6989621f6ea)
 
-
+![SOFTWARE Dev linkedin](https://github.com/user-attachments/assets/59936037-4d35-4c69-a648-7913fce28992)
 
 <h3>Hey there, I'm <img alt="Joss avatar" src="https://github.com/user-attachments/assets/34d11237-3d6c-4259-bd9e-cd5ad0e24f1e/eb078237-d6c7-4d7a-b380-f7ff7e1b85d1](https://github.com/user-attachments/assets/49982a47-e6c7-4890-a3f6-7c4b7d11c317"  style="vertical-align: sub; width: 200px;" /> 👋</h3>
 
