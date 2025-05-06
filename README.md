@@ -15,6 +15,7 @@
 
 I'm a software engineer based in Toronto 🇨🇦. When I'm not coding, you'll probably find me rolling dice at a tabletop game night or playing the piano.
 
+
 Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)  
 
 ### 🔧 Tech Specialties
