@@ -45,7 +45,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 ### Projects I'm Building
 
-[![RiffTube](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube&theme=dracula)](https://github.com/JossWritesCode/RiffTube)
+[![RiffTube](./profile/rifftube.svg)](https://github.com/JossWritesCode/RiffTube)
 
 
 ---
