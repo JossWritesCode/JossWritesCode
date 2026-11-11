@@ -13,7 +13,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-
+      - name: Generate RiffTube card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=JossWritesCode&repo=RiffTube&theme=dracula
+          path: profile/rifftube.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Generate language card
         uses: stats-organization/github-readme-stats-action@v2
         with:
