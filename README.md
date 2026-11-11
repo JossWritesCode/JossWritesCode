@@ -18,27 +18,25 @@ I'm a software engineer based in Toronto 🇨🇦. When I'm not coding, you'll p
 
 Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)  
 
-### 🔧 Tech Specialties
+### Tech Specialties
 
-- 🧠 Front-end engineering with **React**, **TypeScript**, and **Tailwind**
-- 💡 Product-focused development, clean architecture, and scalable code
-- 🚀 Constantly learning—lately into **Rails**, **GraphQL**, and **Node.js**
-
----
-
-### ✨ Fun Facts
-
-- 🎲 I love Dungeons & Dragons and craft my own stories as a Dungeon Master  
-- 🎮 I'm a gamer at heart—I need a few hours a week to unwind playing Overwatch (**💪 Zarya main**)
-- 🌍 I love learning both programming languages and foreign languages. I lived in Taiwan for a couple of years to study Chinese, and now I’m focusing on French.
+- Front-end engineering with **React**, **TypeScript**, and **Tailwind**
+- Product-focused development, clean architecture, and scalable code
+- Constantly learning—lately into **Rails**, **GraphQL**, and **Node.js**
 
 ---
 
-### 📊 GitHub Stats
+### Fun Facts
+
+- I love Dungeons & Dragons and craft my own stories as a Dungeon Master  
+- I'm a gamer at heart—I need a few hours a week to unwind playing Overwatch (**💪 Zarya main**)
+- I love learning both programming languages and foreign languages. I lived in Taiwan for a couple of years to study Chinese, and now I’m focusing on French.
+
+---
+
+### GitHub Stats
 
 <div>
-
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JossWritesCode&theme=dracula&hide_border=true)](https://github.com/JossWritesCode)
 
@@ -46,7 +44,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 </div>
 
-### 🚀 Projects I'm Building
+### Projects I'm Building
 
 [![RiffTube](https://github-readme-stats.vercel.app/api/pin/?username=JossWritesCode&repo=RiffTube&theme=dracula)](https://github.com/JossWritesCode/RiffTube)
 
