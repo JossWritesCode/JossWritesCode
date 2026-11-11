@@ -42,7 +42,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JossWritesCode&theme=dracula&hide_border=true)](https://github.com/JossWritesCode)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=dracula&hide_title=true&langs_count=6)](github-readme-stats-h9kx.vercel.app)
+[![Most Used Languages](https://github-readme-stats-h9kx.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=dracula&hide_title=true&langs_count=6)](https://github.com/JossWritesCode?tab=repositories)
 
 </div>
 
