@@ -39,7 +39,8 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 <div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats-zeta-dun-63.vercel.app?user=JossWritesCode&theme=dracula)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JossWritesCode&theme=dracula&hide_border=true)](https://github.com/JossWritesCode)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JossWritesCode&layout=compact&theme=dracula&hide_title=true&langs_count=6)](github-readme-stats-h9kx.vercel.app)
 
