@@ -46,7 +46,7 @@ Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)
 ### Projects I'm Building
 
 [![RiffTube](./profile/rifftube.svg)](https://github.com/JossWritesCode/RiffTube)
-[![RiffTube](./profile/rifftube.svg)](https://github.com/JossWritesCode/onward)
+[![RiffTube](./profile/onward.svg)](https://github.com/JossWritesCode/onward)
 
 
 ---
