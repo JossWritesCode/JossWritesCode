@@ -1,9 +1,3 @@
-
-
-<p align="center"><em>“A good programmer is someone who always looks both ways before crossing a one-way street.”<br>— Doug Linder</em></p>
-
-
-
 # Joss
 
 ![SOFTWARE Dev linkedin](https://github.com/user-attachments/assets/59936037-4d35-4c69-a648-7913fce28992)
