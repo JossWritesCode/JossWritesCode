@@ -1,7 +1,5 @@
 # Joss
 
-![SOFTWARE Dev linkedin](https://github.com/user-attachments/assets/59936037-4d35-4c69-a648-7913fce28992)
-
 I'm a software engineer based in Toronto 🇨🇦. I enjoy untangling complex problems, building reliable software, and writing code that makes life easier for both users and the developers who come after me (including future me).
 
 I work across the stack, with a focus on thoughtful architecture, maintainable code, and understanding how all the pieces fit together. I care about building things that don't just work today, but continue to work well as they grow and evolve.
