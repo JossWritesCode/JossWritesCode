@@ -6,23 +6,17 @@
 
 # Joss
 
-
 ![SOFTWARE Dev linkedin](https://github.com/user-attachments/assets/59936037-4d35-4c69-a648-7913fce28992)
 
-<h3>Hey there, I'm <img alt="Joss avatar" src="https://github.com/user-attachments/assets/34d11237-3d6c-4259-bd9e-cd5ad0e24f1e/eb078237-d6c7-4d7a-b380-f7ff7e1b85d1](https://github.com/user-attachments/assets/49982a47-e6c7-4890-a3f6-7c4b7d11c317"  style="vertical-align: sub; width: 200px;" /> 👋</h3>
+I'm a software engineer based in Toronto 🇨🇦. I enjoy untangling complex problems, building reliable software, and writing code that makes life easier for both users and the developers who come after me (including future me).
 
----
+I work across the stack, with a focus on thoughtful architecture, maintainable code, and understanding how all the pieces fit together. I care about building things that don't just work today, but continue to work well as they grow and evolve.
 
-I'm a software engineer based in Toronto 🇨🇦. When I'm not coding, you'll probably find me rolling dice at a tabletop game night or playing the piano.
+### Technical Expertise
 
-
-Portfolio: [JossWritesCode.com](https://www.josswritescode.com/)  
-
-### Tech Specialties
-
-- Front-end engineering with **React**, **TypeScript**, and **Tailwind**
-- Product-focused development, clean architecture, and scalable code
-- Constantly learning—lately into **Rails**, **GraphQL**, and **Node.js**
+- **Languages:** TypeScript, JavaScript, Ruby
+- **Frameworks & Technologies:** React, Ruby on Rails, Node.js, GraphQL, Tailwind CSS
+- **Engineering Focus:** Full-stack application development, API integration, software architecture, and maintainable code
 
 ---
 
