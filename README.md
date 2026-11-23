@@ -32,7 +32,8 @@ I work across the stack, with a focus on thoughtful architecture, maintainable c
 ### Projects I'm Building
 
 [![RiffTube](./profile/rifftube.svg)](https://github.com/JossWritesCode/RiffTube)
-[![RiffTube](./profile/onward.svg)](https://github.com/JossWritesCode/onward)
+[![Onward](./profile/onward.svg)](https://github.com/JossWritesCode/onward)
+[![Kansha](./profile/kansha.svg)](https://github.com/kansha-rewards/kansha-fe)
 
 
 ---
